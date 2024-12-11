@@ -1,5 +1,5 @@
 ## Samsung Galaxy A55 5G SM-A556E (a55x)
-For unofficial TWRP build release, go to [custom-recovery-releases](https://github.com/cdpcrp/custom-recovery-releases).
+For unofficial OFRP build release, go to [custom-recovery-releases](https://github.com/cdpcrp/custom-recovery-releases).
 
 ## Flash Steps
 You can find the guide in the download area.
